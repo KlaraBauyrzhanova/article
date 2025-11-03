@@ -1,0 +1,7 @@
+db:
+  article:
+    port: "5432"
+    user: "article"
+    password: "example"
+    host: "postgres"
+    name: "article"
